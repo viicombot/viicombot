@@ -16,5 +16,7 @@
    <a href="https://t.me.viinotpii" target="blank"><img src="https://img.shields.io/badge/@viinotpii-30302f?style=flat&logo=telegram" /></a>
 </p>
 
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" alt="Dino" width="600" />
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=viicombot&theme=blue_navy&no-frame=true&no-bg=true&margin-w=4)

@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello Everyone 👋
+## I'm Vii, I'm still a beginner 👁‍🗨
 
 <!--
 **viicombot/viicombot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

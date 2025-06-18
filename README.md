@@ -11,10 +11,10 @@
 
 <img src="https://raw.githubusercontent.com/kimmyxpow/kimmyxpow/output/snake.svg" alt="Snake animation" />
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=viicombot&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hakutakaid&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=viicombot&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🔎 Contact me
+<p>
+   <a href="https://t.me.viinotpii" target="blank"><img src="https://img.shields.io/badge/@viinotpii-30302f?style=flat&logo=telegram" /></a>
+</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=viicombot&theme=blue_navy&no-frame=true&no-bg=true&margin-w=4)
